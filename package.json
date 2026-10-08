@@ -1,0 +1,16 @@
+{
+  "name": "tsc-ai-wallpaper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "TSC AI WALLPAPER - static gallery of AI wallpapers for The Spike Cross",
+  "type": "module",
+  "engines": { "node": ">=18.17" },
+  "scripts": {
+    "build": "node scripts/build.mjs",
+    "serve": "node scripts/serve.mjs",
+    "dev": "node scripts/build.mjs && node scripts/serve.mjs"
+  },
+  "devDependencies": {
+    "sharp": "^0.34.0"
+  }
+}
