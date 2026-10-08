@@ -1,0 +1,23 @@
+[
+  {
+    "title": "Dark Space",
+    "character": "Isabel",
+    "file": "isabel-dark-space.png",
+    "description": "SAMPLE - replace this entry with your own wallpaper. A phone wallpaper with a cold, dark space mood.",
+    "date": "2026-10-08"
+  },
+  {
+    "title": "Cyber",
+    "character": "Ellio",
+    "file": "ellio-cyber.png",
+    "description": "SAMPLE - replace this entry with your own wallpaper. A teal cyber look in a tall phone format.",
+    "date": "2026-10-07"
+  },
+  {
+    "title": "Dark",
+    "character": "Sanghyeon",
+    "file": "sanghyeon-dark.jpg",
+    "description": "SAMPLE - replace this entry with your own wallpaper. A landscape wallpaper for tablets and desktops.",
+    "date": "2026-10-06"
+  }
+]
